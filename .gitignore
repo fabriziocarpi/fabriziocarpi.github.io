@@ -1,0 +1,6 @@
+# Jemdoc #
+###################
+MENU
+*.jemdoc
+*.bat
+*.conf

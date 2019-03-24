@@ -1,0 +1,9 @@
+*.tex
+*.synctex.gz
+*.aux
+*.log
+*.out
+
+*.bkp
+
+FotoCV.jpg
