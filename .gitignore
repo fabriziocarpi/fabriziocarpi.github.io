@@ -4,3 +4,4 @@ MENU
 *.jemdoc
 *.bat
 *.conf
+*.py
