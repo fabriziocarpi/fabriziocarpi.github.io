@@ -1,0 +1,57 @@
+# jemdoc: menu{MENU}{publications.html}
+# jemdoc: title{Fabrizio Carpi - Publications}
+= Publications
+
++[https://scholar.google.com/citations?user=lF42kl0AAAAJ Google Scholar]+
+
+== Preprints
+
+
+
+
+== Journal
+- *F. Carpi*, M. Martalò, L. Davoli, A. Cilfone, Y. Yu, Y. Wang, G. Ferrari, 
+"Experimental Analysis of RSSI-based Localization Algorithms with NLOS Pre-Mitigation for IoT Applications,"
+in / Computer Networks/, 
+ vol. 225, 2023.\n
++[https://doi.org/10.1016/j.comnet.2023.109663 DOI]+
+
+
+
+== Conference
+- *F. Carpi*, S. Venkatesan, J. Du, H. Viswanathan, S. Garg, E. Erkip, 
+"Precoding-oriented Massive MIMO CSI Feedback Design,"
+in / Proc. 2023 IEEE International Conference on Communications (ICC)/,
+Rome, Italy, May 2023.\n
++[https://doi.org/10.1109/ICC45041.2023.10278955 DOI] | [https://arxiv.org/abs/2302.11526 arXiv] | [files/Slides_2023_ICC.pdf Slides] | [files/Poster_2023_ICC.pdf Poster]+
+
+- *F. Carpi*, S. Garg, E. Erkip, 
+"Single-Shot Compression for Hypothesis Testing,"
+in / Proc. 2021 IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/,
+Lucca, Italy, September 2021.\n
++/*\*\*\* Best Student Paper Award (2nd place) at IEEE SPAWC 2021.*/+\n
++/*\*\*\* Best Poster Award (1st place) at IEEE Communication Theory Workshop 2021.*/+\n
++[https://doi.org/10.1109/SPAWC51858.2021.9593264 DOI] | [https://arxiv.org/abs/2107.09778 arXiv] | [files/Poster_2021_SPAWC.pdf Poster] | [files/Slides_2021_SPAWC.pdf Slides] | [https://youtu.be/2T9p8wVco5Y Video]+
+
+- *F. Carpi*, C. Häger, M. Martalò, R. Raheli, H. D. Pfister,
+"Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding,"
+in /Proc. 2019 57th Annual Allerton Conference on Communication, Control and Computing (Allerton)/,
+Monticello, IL, USA, September 2019.\n
++[https://doi.org/10.1109/ALLERTON.2019.8919799 DOI] | [https://arxiv.org/abs/1906.04448 arXiv] | [files/Slides_2019_Allerton.pdf Slides] | [https://github.com/fabriziocarpi/RLdecoding Github]+
+
+- *F. Carpi*, L. Davoli, M. Martalò, A. Cilfone, Y. Yu, Y. Wang, G. Ferrari,
+“RSSI-based Methods for LOS\/NLOS Channel Identification in Indoor Scenarios,”
+in /Proc. 16th Int. Symp. on Wireless Communication Systems (ISWCS)/, 
+Oulu, Finland, August 2019.\n
++[https://doi.org/10.1109/ISWCS.2019.8877315 DOI]+
+
+- M. Lian, *F. Carpi*, C. Häger, H. D. Pfister,
+“Learned Belief-Propagation Decoding with Simple Scaling and SNR Adaptation,”
+in /Proc. IEEE Int. Symp. on Information Theory (ISIT)/, 
+Paris, France, July 2019.\n
++[https://doi.org/10.1109/ISIT.2019.8849419 DOI] | [https://arxiv.org/abs/1901.08621 arXiv]+
+
+== Thesis
+- "Exploring Machine Learning Algorithms for Decoding Linear Block Codes,"
+Master of Science in Communication Engineering, University of Parma, Italy, October 2018.\n
++[files/Master_2018_FabrizioCarpi_thesis.pdf Thesis] | [files/Master_2018_FabrizioCarpi_summary.pdf Summary] | [files/Master_2018_FabrizioCarpi_slides.pdf Slides]+

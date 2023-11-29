@@ -1,8 +1,8 @@
-*.tex
-*.synctex.gz
-*.aux
-*.log
-*.out
+#*.tex
+#*.synctex.gz
+#*.aux
+#*.log
+#*.out
 
-*.bkp
+#*.bkp
 

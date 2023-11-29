@@ -1,0 +1,108 @@
+# jemdoc: menu{MENU}{bio.html}
+# jemdoc: title{Fabrizio Carpi - Bio}
+= Bio
+
+
++[files/Resume_FabrizioCarpi.pdf Resume]+
+
+
+== Education
+
+~~~
+{}{img_left}{files/Logo_NYU_Tandon.png}{}{100pt}{}{https://engineering.nyu.edu/}
+
+*New York University, Tandon School of Engineering, USA*\n
+
+PhD student in Electrical Engineering, 09\/2019---Present.\n
+Advisors: Prof. Siddharth Garg and Prof. Elza Erkip.
+~~~
+\n
+
+
+~~~
+{}{img_left}{files/Logo_Unipr.png}{}{100pt}{}{https://www.unipr.it/}
+
+*University of Parma, Italy*\n
+
+Master of Science in Communication Engineering, 10\/2015---10\/2018.\n
+/Thesis: "Exploring Machine Learning Algorithms for Decoding Linear Block Codes"./\n
+
+Bachelor's Degree in Information Engineering, 10\/2012---12\/2015.\n
+/Thesis: "Experimental Study of SDN Network Architectures"./
+~~~
+\n\n
+
+~~~
+{}{img_left}{files/Logo_Duke.jpg}{}{100pt}{}{http://www.duke.edu/}
+
+*Duke University, Durham, NC, USA*\n
+
+Visiting student, 03\/2018---08\/2018.\n
+/6 months exchange at [https://bigdata.duke.edu/ Information Initiative at Duke], hosted by Prof. Henry D. Pfister./
+~~~
+
+
+
+== Experience
+
+~~~
+{}{img_left}{files/Logo_SRA.png}{}{100pt}{}{https://sra.samsung.com/}
+
+*Samsung Research America, Plano, TX, USA*\n
+
+Research Intern, Summer 2023.\n
+~~~
+\n\n
+
+
+
+~~~
+{}{img_left}{files/Logo_NokiaBL.png}{}{100pt}{}{https://www.bell-labs.com/}
+
+*Nokia Bell Labs, Murray Hill, NJ, USA*\n
+
+Communication Systems Intern, Summer 2022.\n
+~~~
+\n\n
+
+
+~~~
+{}{img_left}{files/Logo_Intel.png}{}{100pt}{}{https://intel.com/}
+
+*Intel, (Remote), USA*\n
+
+Wireless Standards Research Intern, Summer 2021.\n
+~~~
+\n\n
+
+
+~~~
+{}{img_left}{files/Logo_NYU_WIRELESS.jpg}{}{100pt}{}{https://wireless.engineering.nyu.edu/}
+
+*NYU WIRELESS, Brooklyn, NY, USA*\n
+
+Graduate Research Assistant, 09\/2019---Present.\n
+Supervisors: Prof. Elza Erkip and Prof. Siddharth Garg.
+~~~
+\n\n
+
+
+~~~
+{}{img_left}{files/Logo_NYU_Tandon.png}{}{100pt}{}{https://engineering.nyu.edu/}
+
+*New York University, Tandon School of Engineering, USA*\n
+
+Teaching Assistant.\n
+Fall 2020: ECE 2233 - Undergraduate Probability, Prof. Elza Erkip.
+~~~
+\n\n
+
+
+~~~
+{}{img_left}{files/Logo_IoTLab.png}{}{100pt}{}{http://iotlab.unipr.it/}
+
+*Internet of Things Laboratory, University of Parma, Italy*\n
+
+Research Associate, 11\/2018---08\/2019.\n
+/Topic: outdoor\/indoor localization in 5G systems./
+~~~

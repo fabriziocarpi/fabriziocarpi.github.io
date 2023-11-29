@@ -1,7 +1,7 @@
 # Jemdoc #
 ###################
-MENU
-*.jemdoc
-*.bat
-*.conf
-*.py
+#MENU
+#*.jemdoc
+#*.bat
+#*.conf
+#*.py

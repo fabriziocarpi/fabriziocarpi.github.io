@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{interests.html}
+# jemdoc: title{Fabrizio Carpi - Research Interests}
+= Research Interests
+
+
+== Task-aware source coding
+
+Related work:
+- *Precoding-oriented Massive MIMO CSI Feedback Design* \n
+F. Carpi, S. Venkatesan, J. Du, H. Viswanathan, S. Garg, E. Erkip --- ICC 2023 \n
++[https://doi.org/10.1109/ICC45041.2023.10278955 DOI] | [https://arxiv.org/abs/2302.11526 arXiv] | [files/Slides_2023_ICC.pdf Slides] | [files/Poster_2023_ICC.pdf Poster]+
+
+- *Single-Shot Compression for Hypothesis Testing* \n
+F. Carpi, S. Garg, E. Erkip --- SPAWC 2021 , ITR3 @ ICML 2021, NASIT 2021, CTW 2021 \n
++/*\*\*\* Best Student Paper Award (2nd place) at IEEE SPAWC 2021.*/+\n
++/*\*\*\* Best Poster Award (1st place) at IEEE CTW 2021.*/+\n
++[https://doi.org/10.1109/SPAWC51858.2021.9593264 DOI] | [https://arxiv.org/abs/2107.09778 arXiv] | [files/Poster_2021_SPAWC.pdf Poster] | [files/Slides_2021_SPAWC.pdf Slides] | [https://youtu.be/2T9p8wVco5Y Video]+
+
+
+== Machine learning for channel decoding
+
+Related work:
+- *Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding* \n
+F. Carpi, C. Häger, M. Martalò, R. Raheli, H. D. Pfister --- Allerton 2019 \n
++[https://doi.org/10.1109/ALLERTON.2019.8919799 DOI] | [https://arxiv.org/abs/1906.04448 arXiv] | [files/Slides_2019_Allerton.pdf Slides] | [https://github.com/fabriziocarpi/RLdecoding Github]+
+
+- *Learned Belief-Propagation Decoding with Simple Scaling and SNR Adaptation* \n 
+M. Lian, F. Carpi, C. Häger, H. D. Pfister --- ISIT 2019 \n
++[https://doi.org/10.1109/ISIT.2019.8849419 DOI] | [https://arxiv.org/abs/1901.08621 arXiv]+
+
+- *Exploring Machine Learning Algorithms for Decoding Linear Block Codes* \n 
+F. Carpi --- MS Thesis 2018 \n
++[files/Master_2018_FabrizioCarpi_thesis.pdf Thesis] | [files/Master_2018_FabrizioCarpi_summary.pdf Summary] | [files/Master_2018_FabrizioCarpi_slides.pdf Slides]+
+
+
+== Localization
+
+Related work:
+- *Experimental Analysis of RSSI-based Localization Algorithms with NLOS Pre-Mitigation for IoT Applications* \n
+F. Carpi, M. Martalò, L. Davoli, A. Cilfone, Y. Yu, Y. Wang, G. Ferrari --- ComNet 2023\n
++[https://doi.org/10.1016/j.comnet.2023.109663 DOI]+
+
+- *RSSI-based Methods for LOS\/NLOS Channel Identification in Indoor Scenarios* \n
+F. Carpi, L. Davoli, M. Martalò, A. Cilfone, Y. Yu, Y. Wang, G. Ferrari --- ISWCS 2019 \n
++[https://doi.org/10.1109/ISWCS.2019.8877315 DOI]+

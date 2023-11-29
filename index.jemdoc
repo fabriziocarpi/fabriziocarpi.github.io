@@ -1,0 +1,70 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: title{Fabrizio Carpi - Personal website}
+= Fabrizio Carpi
+
+~~~
+{}{img_left}{files/Pic_FabrizioCarpi.jpeg}{my_pic}{180pt}{}{}
+Fabrizio Carpi\n
+PhD Student in Electrical Engineering\n
+[https://engineering.nyu.edu/ Tandon School of Engineering], [https://www.nyu.edu/ New York University]\n 
+\n
+[https://wp.nyu.edu/ensure_group/ EnSuRe Research Group]\n
+[https://wp.nyu.edu/elza_erkip/ CommIT Research Group]\n
+[https://wireless.engineering.nyu.edu/ NYU WIRELESS Research Center]\n
+
+~~~
+
+=== Contact
+
+
+370 Jay Street\n
+9th floor - NYU WIRELESS\n
+Brooklyn, NY 11201\n
+
+Email: [fabrizio.carpi@nyu.edu]
+\n
+
++[https://www.linkedin.com/in/fabricarpi Linkedin] | [https://github.com/fabriziocarpi Github] | [https://scholar.google.com/citations?user=lF42kl0AAAAJ Google Scholar] | [https://orcid.org/0000-0003-0406-9016 ORCID]+
+
+
+= News
+
+: {*06/2023*} I joined [https://sra.samsung.com/ Samsung Research America], TX, as a Research Intern for the summer.
+
+
+: {*05/2023*} I presented our work on [https://arxiv.org/abs/2302.11526 Precoding-oriented Massive MIMO CSI Feedback Design] at [https://icc2023.ieee-icc.org/ ICC 2023] ([files/Slides_2023_ICC.pdf slides], [files/Pic_2023_ICC.jpg photo]).
+
+
+: {*06/2022*} I joined [https://www.bell-labs.com/ Nokia Bell Labs], NJ, as a Communication Systems Intern for the summer.\n
+    I also received the [files/Award_2022_Nokia.pdf Global Student Program 2022 Outstanding Innovation Award].
+
+
+: {*05/2022*} I received the [files/Award_2022_Youla.jpg 2022 Dante Youla Award for Graduate Research Excellence in Electrical Engineering] ([files/Pic_Award_2022_Youla.jpg photo],[https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering/students/student-awards link]).
+
+
+: {*09/2021*} I presented our paper on [https://arxiv.org/abs/2107.09778 Compression for Hypothesis Testing] at [https://www.spawc2021.com/ SPAWC 2021] ([files/Slides_2021_SPAWC.pdf slides], [https://youtu.be/2T9p8wVco5Y video]).\n
+    We received the [files/Award_2021_SPAWC.pdf Best Student Paper Award (2nd place)] ([https://www.spawc2021.com/program-at-a-glance/ link]).
+
+
+: {*06/2021*} I presented a [files/Poster_2021_SPAWC.pdf poster] about our work on [https://arxiv.org/abs/2107.09778 Compression for Hypothesis Testing] at [https://ctw2021.ieee-ctw.org/ CTW], [http://conferences.ece.ubc.ca/nasit2021/ NASIT] and [https://sites.google.com/view/itr3 ITR3@ICML].\n
+    We won the [files/Award_2021_CTW.pdf Best Poster Award (1st place) at the 2021 IEEE Communication Theory Workshop] ([https://ctw2021.ieee-ctw.org/authors/ link]).
+
+
+: {*05/2021*} I joined [https://www.intel.com/ Intel] as a Wireless Standards Research Intern for the summer.
+
+: {*05/2021*} I received the [files/Award_2021_Chang.pdf 2021 David C. and Cecilia M. Chang Education Award in Electrical and Computer Engineering] ([https://engineering.nyu.edu/student-life/commencement/2021-awards link]).
+
+: {*09/2019*} I presented our work on [https://arxiv.org/abs/1906.04448 Reinforcement Learning for Channel Coding] at the [https://allerton.csl.illinois.edu/ 57th Allerton Conference] ([files/Slides_2019_Allerton.pdf slides]).
+
+: {*09/2019*} I joined the [https://engineering.nyu.edu/ NYU Tandon School of Engineering] as a PhD student in Electrical Engineering.\n
+	I am working under the supervision of [https://engineering.nyu.edu/faculty/siddharth-garg Prof. Siddharth Garg] and [https://engineering.nyu.edu/faculty/elza-erkip Prof. Elza Erkip].
+
+: {*11/2018*} I joined the [http://iotlab.unipr.it/ IoTLab], [https://dia.unipr.it/ Department of Engineering and Architecture, University of Parma], as Research Associate.\n
+	I am working on outdoor/indoor localization for 5G systems, under the supervision of [http://www.tlc.unipr.it/ferrari/ Prof. Gianluigi Ferrari].
+
+: {*10/2018*} I got my [http://communication-eng.unipr.it/ Master of Science in Communication Engineering] (summa cum laude) from [https://www.unipr.it/ University of Parma].\n 
+	I defended a thesis with title "Exploring Machine Learning Algorithms for Decoding Linear Block Codes".\n 
+	Thesis advisors: [http://www.tlc.unipr.it/raheli/ Riccardo Raheli], [http://pfister.ee.duke.edu/ Henry D. Pfister], [http://www.christianhaeger.de/ Christian Häger], [https://sites.google.com/site/marcomartalo/home Marco Martalò].
+
+: {*08/2018*} I finished my 6 months exchange at [https://ece.duke.edu/ Duke University], where I was working on my Master's thesis.\n 
+	I visited [http://pfister.ee.duke.edu/ Prof. Henry D. Pfister]'s group at [https://bigdata.duke.edu/ Information Initiative at Duke]. 
