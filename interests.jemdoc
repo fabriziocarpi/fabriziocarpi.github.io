@@ -3,9 +3,13 @@
 = Research Interests
 
 
-== Task-aware source coding
+== Task-aware compression in communication systems
 
 Related work:
+- *Neural Compress-and-Forward for the Relay Channel* \n
+E. Ozyilkan, F. Carpi, S. Garg, E. Erkip --- preprint \n 
++[https://arxiv.org/abs/2404.14594 arXiv]+
+
 - *Precoding-oriented Massive MIMO CSI Feedback Design* \n
 F. Carpi, S. Venkatesan, J. Du, H. Viswanathan, S. Garg, E. Erkip --- ICC 2023 \n
 +[https://doi.org/10.1109/ICC45041.2023.10278955 DOI] | [https://arxiv.org/abs/2302.11526 arXiv] | [files/Slides_2023_ICC.pdf Slides] | [files/Poster_2023_ICC.pdf Poster]+
@@ -15,6 +19,14 @@ F. Carpi, S. Garg, E. Erkip --- SPAWC 2021 , ITR3 @ ICML 2021, NASIT 2021, CTW 2
 +/*\*\*\* Best Student Paper Award (2nd place) at IEEE SPAWC 2021.*/+\n
 +/*\*\*\* Best Poster Award (1st place) at IEEE CTW 2021.*/+\n
 +[https://doi.org/10.1109/SPAWC51858.2021.9593264 DOI] | [https://arxiv.org/abs/2107.09778 arXiv] | [files/Poster_2021_SPAWC.pdf Poster] | [files/Slides_2021_SPAWC.pdf Slides] | [https://youtu.be/2T9p8wVco5Y Video]+
+
+
+== Waveform optimization
+
+Related work:
+- *Learned Pulse Shaping Design for PAPR Reduction in DFT-s-OFDM* \n
+F. Carpi, S. Rostami, J. Cho, S. Garg, E. Erkip, C. J. Zhang --- preprint \n
++[https://arxiv.org/abs/2404.16137 arXiv]+
 
 
 == Machine learning for channel decoding
