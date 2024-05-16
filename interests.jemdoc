@@ -6,6 +6,10 @@
 == Task-aware compression in communication systems
 
 Related work:
+- *Learning-Based Compress-and-Forward Schemes for the Relay Channel* \n
+E. Ozyilkan, F. Carpi, S. Garg, E. Erkip --- preprint \n
++[https://arxiv.org/abs/2405.09534 arXiv]+
+
 - *Neural Compress-and-Forward for the Relay Channel* \n
 E. Ozyilkan, F. Carpi, S. Garg, E. Erkip --- preprint \n 
 +[https://arxiv.org/abs/2404.14594 arXiv]+
