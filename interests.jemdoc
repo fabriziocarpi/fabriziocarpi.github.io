@@ -11,8 +11,8 @@ E. Ozyilkan, F. Carpi, S. Garg, E. Erkip --- preprint \n
 +[https://arxiv.org/abs/2405.09534 arXiv]+
 
 - *Neural Compress-and-Forward for the Relay Channel* \n
-E. Ozyilkan, F. Carpi, S. Garg, E. Erkip --- preprint \n 
-+[https://arxiv.org/abs/2404.14594 arXiv]+
+E. Ozyilkan, F. Carpi, S. Garg, E. Erkip --- SPAWC 2024 \n 
++[https://doi.org/10.1109/SPAWC60668.2024.10694419 DOI] | [https://arxiv.org/abs/2404.14594 arXiv] | [files/Poster_2024_SPAWC_neural-relay.pdf Poster]+
 
 - *Precoding-oriented Massive MIMO CSI Feedback Design* \n
 F. Carpi, S. Venkatesan, J. Du, H. Viswanathan, S. Garg, E. Erkip --- ICC 2023 \n
@@ -24,13 +24,17 @@ F. Carpi, S. Garg, E. Erkip --- SPAWC 2021 , ITR3 @ ICML 2021, NASIT 2021, CTW 2
 +/*\*\*\* Best Poster Award (1st place) at IEEE CTW 2021.*/+\n
 +[https://doi.org/10.1109/SPAWC51858.2021.9593264 DOI] | [https://arxiv.org/abs/2107.09778 arXiv] | [files/Poster_2021_SPAWC.pdf Poster] | [files/Slides_2021_SPAWC.pdf Slides] | [https://youtu.be/2T9p8wVco5Y Video]+
 
+- *Learned Task-Aware Compression Methods in Communication Systems* \n
+F. Carpi --- Ph.D. Thesis 2024\n
++[files/PhD_2024_FabrizioCarpi_dissertation.pdf Dissertation] | [files/PhD_2024_FabrizioCarpi_slides.pdf Slides]+
+
 
 == Waveform optimization
 
 Related work:
 - *Learned Pulse Shaping Design for PAPR Reduction in DFT-s-OFDM* \n
-F. Carpi, S. Rostami, J. Cho, S. Garg, E. Erkip, C. J. Zhang --- preprint \n
-+[https://arxiv.org/abs/2404.16137 arXiv]+
+F. Carpi, S. Rostami, J. Cho, S. Garg, E. Erkip, C. J. Zhang --- SPAWC 2024 \n
++[https://doi.org/10.1109/SPAWC60668.2024.10694070 DOI] | [https://arxiv.org/abs/2404.16137 arXiv] | [files/Poster_2024_SPAWC_pulse-shaping.pdf Poster]+
 
 
 == Machine learning for channel decoding

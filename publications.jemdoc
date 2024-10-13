@@ -10,17 +10,6 @@
 under review.\n
 +[https://arxiv.org/abs/2405.09534 arXiv]+
 
-- E. Ozyilkan\*, *F. Carpi*\*, S. Garg, E. Erkip, 
-"Neural Compress-and-Forward for the Relay Channel,"
-under review.\n
-+[https://arxiv.org/abs/2404.14594 arXiv]+
-
-- *F. Carpi*, S. Rostami, J. Cho, S. Garg, E. Erkip, C. J. Zhang,
-"Learned Pulse Shaping Design for PAPR Reduction in DFT-s-OFDM,"
-under review.\n
-+[https://arxiv.org/abs/2404.16137 arXiv]+
-
-
 
 
 
@@ -34,6 +23,17 @@ in / Computer Networks/,
 
 
 == Conference
+- E. Ozyilkan\*, *F. Carpi*\*, S. Garg, E. Erkip, 
+"Neural Compress-and-Forward for the Relay Channel,"
+in / Proc. 2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, Lucca, Italy, 2024, pp. 366-370.\n
++[https://doi.org/10.1109/SPAWC60668.2024.10694419 DOI] | [https://arxiv.org/abs/2404.14594 arXiv] | [files/Poster_2024_SPAWC_neural-relay.pdf Poster]+
+
+
+- *F. Carpi*, S. Rostami, J. Cho, S. Garg, E. Erkip, C. J. Zhang,
+"Learned Pulse Shaping Design for PAPR Reduction in DFT-s-OFDM,"
+in / Proc. 2024 IEEE 25th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)/, Lucca, Italy, 2024, pp. 406-410.\n
++[https://doi.org/10.1109/SPAWC60668.2024.10694070 DOI] | [https://arxiv.org/abs/2404.16137 arXiv] | [files/Poster_2024_SPAWC_pulse-shaping.pdf Poster]+
+
 - *F. Carpi*, S. Venkatesan, J. Du, H. Viswanathan, S. Garg, E. Erkip, 
 "Precoding-oriented Massive MIMO CSI Feedback Design,"
 in / Proc. 2023 IEEE International Conference on Communications (ICC)/,
@@ -67,6 +67,11 @@ Paris, France, July 2019.\n
 +[https://doi.org/10.1109/ISIT.2019.8849419 DOI] | [https://arxiv.org/abs/1901.08621 arXiv]+
 
 == Thesis
+- "Learned Task-Aware Compression Methods in Communication Systems,"
+Ph.D. in Electrical Engineering, New York University Tandon School of Engineering, September 2024.\n
++[files/PhD_2024_FabrizioCarpi_dissertation.pdf Dissertation] | [files/PhD_2024_FabrizioCarpi_slides.pdf Slides]+
+
+
 - "Exploring Machine Learning Algorithms for Decoding Linear Block Codes,"
 Master of Science in Communication Engineering, University of Parma, Italy, October 2018.\n
 +[files/Master_2018_FabrizioCarpi_thesis.pdf Thesis] | [files/Master_2018_FabrizioCarpi_summary.pdf Summary] | [files/Master_2018_FabrizioCarpi_slides.pdf Slides]+
