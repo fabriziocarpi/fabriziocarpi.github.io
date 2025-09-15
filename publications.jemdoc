@@ -5,15 +5,22 @@
 +[https://scholar.google.com/citations?user=lF42kl0AAAAJ Google Scholar] | [https://orcid.org/0000-0003-0406-9016 ORCID]+
 
 == Preprints
-- E. Ozyilkan\*, *F. Carpi*\*, S. Garg, E. Erkip, 
-"Learning-Based Compress-and-Forward Schemes for the Relay Channel,"
-under review.\n
-+[https://arxiv.org/abs/2405.09534 arXiv]+
-
-
+- 
 
 
 == Journal
+- *F. Carpi*, S. Venkatesan, J. Du, H. Viswanathan, S. Garg and E. Erkip, 
+"Learned Precoding-Oriented CSI Feedback in Multi-Cell Multi-User MIMO Systems," 
+in /IEEE Transactions on Wireless Communications/, 2025.\n
++[https://doi.org/10.1109/TWC.2025.3596140 DOI]+
+
+
+- E. Ozyilkan\*, *F. Carpi*\*, S. Garg, E. Erkip, 
+"Learning-Based Compress-and-Forward Schemes for the Relay Channel,"
+in /IEEE Journal on Selected Areas in Communications/, vol. 43, no. 7, pp. 2393-2404, July 2025.\n
++[https://doi.org/10.1109/JSAC.2025.3559156 DOI] | [https://arxiv.org/abs/2405.09534 arXiv]+
+
+
 - *F. Carpi*, M. Martalò, L. Davoli, A. Cilfone, Y. Yu, Y. Wang, G. Ferrari, 
 "Experimental Analysis of RSSI-based Localization Algorithms with NLOS Pre-Mitigation for IoT Applications,"
 in / Computer Networks/, 
