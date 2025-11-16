@@ -2,7 +2,6 @@
 # jemdoc: title{Fabrizio Carpi - Research Interests}
 = Research Interests
 
-
 == Task-aware compression in communication systems
 
 Related work:
@@ -68,3 +67,11 @@ F. Carpi, M. Martalò, L. Davoli, A. Cilfone, Y. Yu, Y. Wang, G. Ferrari --- Com
 - *RSSI-based Methods for LOS\/NLOS Channel Identification in Indoor Scenarios* \n
 F. Carpi, L. Davoli, M. Martalò, A. Cilfone, Y. Yu, Y. Wang, G. Ferrari --- ISWCS 2019 \n
 +[https://doi.org/10.1109/ISWCS.2019.8877315 DOI]+
+
+
+== Modulation
+
+Related work:
+- *AI\/ML-Based Asymmetric Modulation Constellations and Pilotless Communications* \n
+C. K. Lo, F. Carpi, J. Cho, C. J. Zhang --- VTC2025-Spring \n
++[https://doi.org/10.1109/VTC2025-Spring65109.2025.11174722 DOI]+
